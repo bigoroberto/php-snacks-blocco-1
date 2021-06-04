@@ -16,8 +16,8 @@
       'point_team2' => 60
     ],
     [
-      'team1' => 'Lakers',
-      'team2' => 'Chicago Bulls',
+      'team1' => 'Boston Celtic',
+      'team2' => 'Brooklyn Nets',
       'point_team1' => 90,
       'point_team2' => 80
     ],
